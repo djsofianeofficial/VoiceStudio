@@ -1,3 +1,4 @@
+﻿# -*- coding: utf-8 -*-
 """Test isolation shared by every suite (``tests/`` and ``backend/tests/``).
 
 Only fixtures that both suites need live here; each suite's own conftest.py
